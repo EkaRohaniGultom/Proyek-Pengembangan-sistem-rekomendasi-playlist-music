@@ -1,4 +1,4 @@
-# Proyek-Pengembangan-sistem-rekomendasi-playlist-music
+# Proyek Pengembangan Sistem Rekomendasi Playlist Music
 Judul proyek kami untuk matakuliah kecerdasan buatan ini adalah Pengembangan Rekomendasi Playlist Musik untuk Mengurangi Tekanan Psikologis. Kami mengembangkan model yang bisa mengelompokkan playlist yang sesuai yang nantinya akan berguna untuk mengurangi tekanan psikologi. Metode yang kami gunakan adalah metode matrix faktorization. 
 Adapun manfaat yang dapat diperoleh dari pengembangan rekomendasi playlist musik untuk mengurangi tekanan psikologis adalah sebagai berikut:
 1.	Memberikan kemudahan kepada pengguna dalam memilih playlist musik yang ingin didengarkan.
