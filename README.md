@@ -10,7 +10,7 @@ Berikut ini link dataset yang kami gunakan sebagai referensi:
 https://www.kaggle.com/code/pegahpooya/spotify-playlists-recommender-system
 
 Spotify playlists dataset
-Kumpulan data ini didasarkan pada subkumpulan pengguna di kumpulan data #nowplaying yang memublikasikan tweet #nowplaying mereka melalui Spotify. Pada prinsipnya, kumpulan data menampung pengguna, daftar putar mereka, dan trek yang terdapat dalam daftar putar ini.
+Kumpulan data ini didasarkan pada sub kumpulan pengguna di kumpulan data #nowplaying yang memublikasikan tweet #nowplaying mereka melalui Spotify. Pada prinsipnya, kumpulan data menampung pengguna, daftar putar mereka, dan trek yang terdapat dalam daftar putar ini.
 
 File csv yang menyimpan kumpulan data berisi kolom berikut:
 "user_id", "artistname", "trackname", "playlistname", 
